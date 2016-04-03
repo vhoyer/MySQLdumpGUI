@@ -1,0 +1,12 @@
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\bin\Debug\MySQLdumpGUI.exe.config
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\bin\Debug\MySQLdumpGUI.exe
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\bin\Debug\MySQLdumpGUI.pdb
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\bin\Debug\Mngrs.dll
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\bin\Debug\Mngrs.pdb
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\obj\Debug\MySQLdumpGUI.csprojResolveAssemblyReference.cache
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\obj\Debug\MySQLdumpGUI.Form1.resources
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\obj\Debug\MySQLdumpGUI.Properties.Resources.resources
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\obj\Debug\MySQLdumpGUI.csproj.GenerateResource.Cache
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\obj\Debug\MySQLdumpGUI.exe
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\obj\Debug\MySQLdumpGUI.pdb
+C:\Users\vhoye\OneDrive\programas\Csharp\MySQLdumpGUI\MySQLdumpGUI\bin\Debug\MySql.Data.dll
